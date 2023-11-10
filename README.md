@@ -7,6 +7,7 @@ Projeto da disciplina de qualidade de software.
 - Marcos Vinícus
 # Dependências do ambiente
 - nodejs: https://nodejs.org/en/
+- Chromium 114: https://chromium.cypress.io/win64/stable/114.0.5735.199 (64 bits) ou https://chromium.cypress.io/win/stable/114.0.5735.199 (32 bits)
 # Instalando o Protractor
 1. Clone desse repositório
 ```
