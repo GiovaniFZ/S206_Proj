@@ -49,5 +49,5 @@ http-server
 
 8. Rode o teste de exemplo
 ```
-protractor testeAngular.js
+protractor conf.js
 ```
