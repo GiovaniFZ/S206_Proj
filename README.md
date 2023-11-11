@@ -29,3 +29,25 @@ webdriver-manager update
 ```
 webdriver-manager start
 ```
+6. Clone o respositório do teste de login utilizado
+```
+git clone https://github.com/cornflourblue/angular-registration-login-example.git
+```
+7. Instale algumas dependências do npm para servidor local.
+```
+npm install -g http-server
+```
+```
+cd angular-registration-login-example
+```
+```
+npm install -g http-server
+```
+```
+http-server
+```
+
+8. Rode o teste de exemplo
+```
+protractor testeAngular.js
+```
