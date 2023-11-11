@@ -1,14 +1,14 @@
 # S206_Proj
 Projeto da disciplina de qualidade de software.
-# Alunos:
+## Alunos:
 - Felipe da Silva Inácio
 - Giovani Finazzi
 - Luca Felipe
 - Marcos Vinícus
-# Dependências do ambiente
+## Dependências do ambiente
 - nodejs: https://nodejs.org/en/
 - Chromium 114: https://chromium.cypress.io/win64/stable/114.0.5735.199 (64 bits) ou https://chromium.cypress.io/win/stable/114.0.5735.199 (32 bits)
-# Instalando o Protractor
+## Instalando o Protractor
 1. Clone desse repositório
 ```
 git clone https://github.com/Giv314/S206_Proj.git
@@ -51,3 +51,8 @@ http-server
 ```
 protractor conf.js
 ```
+
+## Referências
+- https://www.protractortest.org/#/
+- https://www.youtube.com/watch?v=u_awobQ1fws
+- https://www.protractortest.org/#/api?view=ProtractorBy.prototype.model
