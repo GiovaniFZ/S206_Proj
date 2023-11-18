@@ -49,7 +49,10 @@ http-server
 
 8. Rode o teste de exemplo
 ```
-protractor conf.js
+Primeiro exemplo: protractor conf.js
+
+Segundo exemplo: protractor config.js
+
 ```
 
 ## Referências
